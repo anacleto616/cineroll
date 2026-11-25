@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="CineRoll.API/CineRoll.API.csproj" Id="b36e9b7c-6ca0-45ee-85db-4ac2fc61b247" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
